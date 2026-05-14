@@ -1,4 +1,10 @@
 <download>
-    <version>3.8.0.292301</version>
-    <url>https://g79.gdl.netease.com/Win64.Netease.Haldra.Release.netease_mcs_3.8.3.8.0.292301_full_patch.zip</url>
+    <Haldra_mcs_3.8.0.292301>
+        <version>3.8.0.292301-3.8渲染龙</version>
+        <url>https://g79.gdl.netease.com/Win64.Netease.Haldra.Release.netease_mcs_3.8.3.8.0.292301_full_patch.zip</url>
+    </Haldra_mcs_3.8.0.292301>
+    <OGL_mcs_3.8.0.291644>
+        <version>3.8.0.291644-3.8OpenGL</version>
+        <url>https://g79.gdl.netease.com/Win64.Netease.OGL.No.Launch.Release.netease_mcs_3.8.3.8.0.291644_full_patch.zip</url>
+    </OGL_mcs_3.8.0.291644>
 </download>

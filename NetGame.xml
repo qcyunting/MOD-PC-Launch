@@ -1,6 +1,7 @@
 <NetGameList>
     <qcyt>
         <name>千阙云庭</name>
+        <icon>https://raw.githubusercontent.com/qcyunting/MOD-PC-Launch/main/qcyt.png</icon>
         <address>120.220.76.204</address>
         <port>19132</port>
     </qcyt>
