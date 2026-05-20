@@ -3,11 +3,11 @@
         <name>千阙云庭</name>
         <icon>https://raw.githubusercontent.com/qcyunting/MOD-PC-Launch/main/qcyt.png</icon>
         <address>120.220.76.204</address>
-        <port>19132</port>
+        <port>19133</port>
     </qcyt>
     <fzg>
         <name>风之谷</name>
         <address>1.95.236.33</address>
-        <port>11006</port>
+        <port>11000</port>
     </fzg>
 </NetGameList>
